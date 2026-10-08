@@ -1,0 +1,65 @@
+{
+  "business": {
+    "name": "Beatriz Lima",
+    "role": "Lash Designer",
+    "tagline": "Realçando a beleza natural do seu olhar.",
+    "about": "Me chamo Beatriz e sou apaixonada pela área da beleza, sempre buscando realçar a autoestima e destacar a beleza natural de cada cliente. Trabalho com muito carinho, atenção aos detalhes e atendimentos personalizados, proporcionando uma experiência leve, confortável e especial. Meu objetivo é fazer com que você se sinta ainda mais linda, confiante e satisfeita com o seu olhar!",
+    "photos": ["img/beatriz-1.jpg", "img/beatriz-2.jpg"],
+    "address": "",
+    "instagram": ""
+  },
+  "services": [
+    {
+      "id": "volume-brasileiro",
+      "category": "Cílios",
+      "name": "Volume Brasileiro",
+      "description": "Olhar com volume marcante sem perder a naturalidade.",
+      "prices": { "aplicacao": 85, "manutencao": 70 },
+      "photos": [{ "src": "img/volume-brasileiro-1.jpg", "focus": "70% 50%" }, "img/volume-brasileiro-2.jpg"]
+    },
+    {
+      "id": "volume-egipcio",
+      "category": "Cílios",
+      "name": "Volume Egípcio",
+      "description": "Volumão bem preenchido e pretinho.",
+      "prices": { "aplicacao": 95, "manutencao": 80 },
+      "photos": [{ "src": "img/volume-egipcio-3.jpg", "focus": "66% 50%" }, { "src": "img/volume-egipcio-2.jpg", "focus": "68% 50%" }]
+    },
+    {
+      "id": "volume-brasileiro-marrom",
+      "category": "Cílios",
+      "name": "Volume Brasileiro Marrom",
+      "description": "Olhar com volume marcante e trazendo mais naturalidade.",
+      "prices": { "aplicacao": 90, "manutencao": 75 },
+      "photos": [{ "src": "img/volume-brasileiro-marrom-1.jpg", "focus": "60% 50%" }, { "src": "img/volume-brasileiro-marrom-2.jpg", "focus": "72% 50%" }]
+    },
+    {
+      "id": "volume-fox-eyes",
+      "category": "Cílios",
+      "name": "Volume Fox Eyes",
+      "description": "Famoso olhar de raposa: alonga e dá um toque ousado.",
+      "prices": { "aplicacao": 100, "manutencao": 80 },
+      "photos": [{ "src": "img/fox-eyes-3.jpg", "focus": "42% 40%" }, "img/fox-eyes-1.jpg", { "src": "img/fox-eyes-2.jpg", "focus": "52% 50%" }]
+    },
+    {
+      "id": "design-henna",
+      "category": "Sobrancelhas",
+      "name": "Design com Henna",
+      "description": "Sobrancelhas desenhadas e preenchidas com henna para um olhar definido.",
+      "prices": { "aplicacao": 30 },
+      "photos": ["img/design-henna-1.jpg", "img/design-henna-2.jpg"]
+    },
+    {
+      "id": "design-simples",
+      "category": "Sobrancelhas",
+      "name": "Design Simples",
+      "description": "Design de sobrancelhas que harmoniza e valoriza o seu rosto.",
+      "prices": { "aplicacao": 20 },
+      "photos": [{ "src": "img/design-simples-1.jpg", "focus": "50% 50%" }]
+    }
+  ],
+  "extras": [
+    { "id": "remocao-extensao", "name": "Remoção de extensão de cílios", "price": 25 },
+    { "id": "remocao-buco", "name": "Remoção de buço na cera", "price": 15 }
+  ]
+}
